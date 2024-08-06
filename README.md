@@ -31,13 +31,13 @@
 - Inside your Strapi app, add the package:
 
 ```bash
-npm install @_sh/strapi-plugin-ckeditor
+npm install @jhoward1994/strapi-plugin-ckeditor
 ```
 
 or
 
 ```bash
-yarn add @_sh/strapi-plugin-ckeditor
+yarn add @jhoward1994/strapi-plugin-ckeditor
 ```
 
 - Then run build:
